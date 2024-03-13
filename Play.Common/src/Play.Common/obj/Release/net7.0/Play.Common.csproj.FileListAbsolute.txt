@@ -1,0 +1,12 @@
+/Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/bin/Release/net7.0/Play.Common.deps.json
+/Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/bin/Release/net7.0/Play.Common.dll
+/Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/bin/Release/net7.0/Play.Common.pdb
+/Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/obj/Release/net7.0/Play.Common.csproj.AssemblyReference.cache
+/Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/obj/Release/net7.0/Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/obj/Release/net7.0/Play.Common.AssemblyInfoInputs.cache
+/Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/obj/Release/net7.0/Play.Common.AssemblyInfo.cs
+/Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/obj/Release/net7.0/Play.Common.csproj.CoreCompileInputs.cache
+/Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/obj/Release/net7.0/Play.Common.dll
+/Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/obj/Release/net7.0/refint/Play.Common.dll
+/Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/obj/Release/net7.0/Play.Common.pdb
+/Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/obj/Release/net7.0/ref/Play.Common.dll

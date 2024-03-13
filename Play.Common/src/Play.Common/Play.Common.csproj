@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.extensions.configuration" Version="8.0.0" />
+    <PackageReference Include="microsoft.extensions.configuration.binder" Version="8.0.1" />
+    <PackageReference Include="microsoft.extensions.dependencyinjection" Version="8.0.0" />
+    <PackageReference Include="mongodb.driver" Version="2.23.1" />
+  </ItemGroup>
+
+</Project>
