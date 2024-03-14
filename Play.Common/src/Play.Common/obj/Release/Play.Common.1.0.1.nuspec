@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Play.Common</id>
+    <version>1.0.1</version>
+    <authors>Play.Common</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="9e02f41c3aa8443214b462bcbaf700c2ee968e6b" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="MassTransit.AspNetCore" version="7.3.1" exclude="Build,Analyzers" />
+        <dependency id="MassTransit.RabbitMQ" version="8.1.3" exclude="Build,Analyzers" />
+        <dependency id="microsoft.extensions.configuration" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="microsoft.extensions.configuration.binder" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="microsoft.extensions.dependencyinjection" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="mongodb.driver" version="2.23.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/bin/Release/net7.0/Play.Common.dll" target="lib/net7.0/Play.Common.dll" />
+  </files>
+</package>

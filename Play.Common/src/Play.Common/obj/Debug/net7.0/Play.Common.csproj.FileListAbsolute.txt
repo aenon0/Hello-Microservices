@@ -10,3 +10,4 @@
 /Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/obj/Debug/net7.0/refint/Play.Common.dll
 /Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/obj/Debug/net7.0/Play.Common.pdb
 /Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/obj/Debug/net7.0/ref/Play.Common.dll
+/Users/henon/Documents/Projects/Microservices/Play.Common/src/Play.Common/obj/Debug/net7.0/Play.Common.sourcelink.json

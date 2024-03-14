@@ -58,3 +58,13 @@
 /Users/henon/Documents/Projects/Microservices/Play.Inventory/src/Play.Inventory.Service/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
 /Users/henon/Documents/Projects/Microservices/Play.Inventory/src/Play.Inventory.Service/bin/Debug/net7.0/Polly.dll
 /Users/henon/Documents/Projects/Microservices/Play.Inventory/src/Play.Inventory.Service/bin/Debug/net7.0/Polly.Extensions.Http.dll
+/Users/henon/Documents/Projects/Microservices/Play.Inventory/src/Play.Inventory.Service/bin/Debug/net7.0/MassTransit.dll
+/Users/henon/Documents/Projects/Microservices/Play.Inventory/src/Play.Inventory.Service/bin/Debug/net7.0/MassTransit.Abstractions.dll
+/Users/henon/Documents/Projects/Microservices/Play.Inventory/src/Play.Inventory.Service/bin/Debug/net7.0/MassTransit.AspNetCoreIntegration.dll
+/Users/henon/Documents/Projects/Microservices/Play.Inventory/src/Play.Inventory.Service/bin/Debug/net7.0/MassTransit.ExtensionsDependencyInjectionIntegration.dll
+/Users/henon/Documents/Projects/Microservices/Play.Inventory/src/Play.Inventory.Service/bin/Debug/net7.0/MassTransit.RabbitMqTransport.dll
+/Users/henon/Documents/Projects/Microservices/Play.Inventory/src/Play.Inventory.Service/bin/Debug/net7.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/henon/Documents/Projects/Microservices/Play.Inventory/src/Play.Inventory.Service/bin/Debug/net7.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/henon/Documents/Projects/Microservices/Play.Inventory/src/Play.Inventory.Service/bin/Debug/net7.0/Play.Catalog.Contracts.dll
+/Users/henon/Documents/Projects/Microservices/Play.Inventory/src/Play.Inventory.Service/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/henon/Documents/Projects/Microservices/Play.Inventory/src/Play.Inventory.Service/obj/Debug/net7.0/Play.Inventory.Service.sourcelink.json
