@@ -1,0 +1,12 @@
+/Users/henon/Documents/Projects/Microservices/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net7.0/Play.Catalog.Contracts.deps.json
+/Users/henon/Documents/Projects/Microservices/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net7.0/Play.Catalog.Contracts.dll
+/Users/henon/Documents/Projects/Microservices/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net7.0/Play.Catalog.Contracts.pdb
+/Users/henon/Documents/Projects/Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net7.0/Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henon/Documents/Projects/Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net7.0/Play.Catalog.Contracts.AssemblyInfoInputs.cache
+/Users/henon/Documents/Projects/Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net7.0/Play.Catalog.Contracts.AssemblyInfo.cs
+/Users/henon/Documents/Projects/Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net7.0/Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+/Users/henon/Documents/Projects/Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net7.0/Play.Catalog.Contracts.sourcelink.json
+/Users/henon/Documents/Projects/Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net7.0/Play.Catalog.Contracts.dll
+/Users/henon/Documents/Projects/Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net7.0/refint/Play.Catalog.Contracts.dll
+/Users/henon/Documents/Projects/Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net7.0/Play.Catalog.Contracts.pdb
+/Users/henon/Documents/Projects/Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net7.0/ref/Play.Catalog.Contracts.dll
